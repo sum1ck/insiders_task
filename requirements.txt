@@ -1,8 +1,9 @@
 django
 django-rest-framework
+django-extensions
 django-environ
 django-filter
 django-redis
-drf-yasg
 psycopg2-binary
 pandas
+gunicorn
